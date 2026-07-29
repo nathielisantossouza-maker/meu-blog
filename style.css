@@ -1,6 +1,16 @@
-:root{
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+NZ+Guides&display=swap');
+
+ :root{
     --cinza: #d8e2dcff;
     --pó-pastel: #ffe5d9ff;
     --rosa-pastel : #ffcad4ff;
     --sakura: #f4acb7ff;
+    --titulo:"Noto Serif", serif,
+    --texto:"Playwrit NZ Guides", cursive,
+}
+
+body{
+
+   background-color:var(--pó-pastel); 
+   font-family:var(--rosa-pastel);
 }
