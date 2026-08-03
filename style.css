@@ -14,3 +14,7 @@ body{
    background-color:var(--pó-pastel); 
    font-family:var(--rosa-pastel);
 }
+header{
+    background-color: var(--cinza);
+
+}
