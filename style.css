@@ -7,7 +7,15 @@
     --sakura: #f4acb7ff;
     --titulo:"Noto Serif", serif,
     --texto:"Playwrit NZ Guides", cursive,
+
+
+ }
+*{
+    margin: 0;
+    padding: 0;
 }
+
+
 
 body{
 
@@ -16,5 +24,7 @@ body{
 }
 header{
     background-color: var(--cinza);
-
+    text-align: center;
+    padding: 20xp;
+    color: var(--cinza);
 }
