@@ -31,7 +31,12 @@ header{
 
 .capa{
      width: 100%;
-}
+}  
+.caixa-conteudo{
+    margin: 20xp;
+    border: 2px dotted;
+    
 
+}
 
 
