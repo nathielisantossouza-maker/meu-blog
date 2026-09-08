@@ -35,8 +35,36 @@ header{
 .caixa-conteudo{
     margin: 20xp;
     border: 2px dotted;
-    
+    padding: 20px;
+    text-align:center;
 
 }
+
+.conteudo-titul0{
+font-family: var(--titulo);
+font-size: 32xp;
+color: var(--ciano);
+
+
+ }
+.conteudo-texto{
+margin: 40xp 0;
+ font-family: var(--rosa);
+
+}
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: var(-- amarelo);
+    color: var(--rosa);
+
+}
+footer p{
+    font-family: var(--titulo);
+    font-size: 20px
+
+}
+
+
 
 
